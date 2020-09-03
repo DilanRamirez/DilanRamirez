@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Dilan Ramirez github stats](https://github-readme-stats.vercel.app/api?username=DilanRamirez)](https://github.com/DilanRamirez/github-readme-stats)
+
 <!--
 **DilanRamirez/DilanRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
