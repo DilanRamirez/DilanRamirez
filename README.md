@@ -1,8 +1,15 @@
+# Dilan Ramirez
 ### Hi there 👋
 
 [![Dilan Ramirez github stats](https://github-readme-stats.vercel.app/api?username=DilanRamirez)](https://github.com/DilanRamirez/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=COVID-19)](https://github.com/DilanRamirez/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=condiciones-admosfericas)](https://github.com/DilanRamirez/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=covid-19-mexico)](https://github.com/DilanRamirez/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=3D-map)](https://github.com/DilanRamirez/github-readme-stats)
+
+### and much more...
+
 
 <!--
 **DilanRamirez/DilanRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
