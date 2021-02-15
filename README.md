@@ -2,7 +2,7 @@
 ### Hi there 👋
  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
  
-![Dilan Ramirez github stats](https://github-readme-stats.vercel.app/api?username=DilanRamirez)](https://github.com/DilanRamirez/github-readme-stats)
+[![Dilan Ramirez github stats](https://github-readme-stats.vercel.app/api?username=DilanRamirez)](https://github.com/DilanRamirez/github-readme-stats)
 
 ## Tech & Tools Preference
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -24,10 +24,10 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=COVID-19)](https://github.com/DilanRamirez/github-readme-stats)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=condiciones-atmosfericas)](https://github.com/DilanRamirez/github-readme-stats)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=covid-19-mexico)](https://github.com/DilanRamirez/github-readme-stats)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=3D-map)](https://github.com/DilanRamirez/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=COVID-19)](https://github.com/DilanRamirez/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=condiciones-atmosfericas)](https://github.com/DilanRamirez/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=covid-19-mexico)](https://github.com/DilanRamirez/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=3D-map)](https://github.com/DilanRamirez/github-readme-stats)
 
    
 
