@@ -24,8 +24,6 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
----
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=COVID-19)](https://github.com/DilanRamirez/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=condiciones-atmosfericas)](https://github.com/DilanRamirez/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=covid-19-mexico)](https://github.com/DilanRamirez/github-readme-stats)
