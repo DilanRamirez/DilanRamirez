@@ -31,9 +31,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=covid-19-mexico)](https://github.com/DilanRamirez/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DilanRamirez&repo=3D-map)](https://github.com/DilanRamirez/github-readme-stats)
 
-### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
-
-<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="dilanrrr@gmail.com">   <a  href="https://www.instagram.com/dil.ramirez/"><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/dilanramirez/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
+   
 
 ### and much more...
 
