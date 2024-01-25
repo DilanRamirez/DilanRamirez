@@ -6,24 +6,26 @@ Welcome to my GitHub journey, where code meets creativity and curiosity reigns s
 
 I'm an experienced Full Stack Web Developer with a passion for Arctic research and logistics. Currently, I'm immersed in groundbreaking projects at the Systems Ecology Research Laboratory at The University of Texas at El Paso and the Learning Science Group at the University of Southern California. My toolbox includes React JS, Redux, ESRI JS, ArcGIS JavaScript API, Python, Databases, etc.
 
-### Tech & Tools Preference
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="https://img.shields.io/badge/-GIS-5A0FC8?style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-Express.js-787878?style=flat" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-Progressive%20Web%20Apps-5A0FC8?style=flat" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-GIS-5A0FC8?style=flat&logoColor=white" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+</div>
+
 
 ### The University of Texas at El Paso
 
