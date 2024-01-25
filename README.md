@@ -2,7 +2,7 @@
 
 Welcome to my GitHub journey, where code meets creativity and curiosity reigns supreme. Join me as we explore the fascinating world of software development, research, and innovation!
 
-## About Me
+## About Me ![Profile View Counter](https://komarev.com/ghpvc/?username=DilanRamirez)
 
 I'm an experienced Full Stack Web Developer with a passion for Arctic research and logistics. Currently, I'm immersed in groundbreaking projects at the Systems Ecology Research Laboratory at The University of Texas at El Paso and the Learning Science Group at the University of Southern California. My toolbox includes React JS, Redux, ESRI JS, ArcGIS JavaScript API, Python, Databases, etc.
 
@@ -26,7 +26,7 @@ I'm an experienced Full Stack Web Developer with a passion for Arctic research a
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 </div>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+
 
 
 ### The University of Texas at El Paso
