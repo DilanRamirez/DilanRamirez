@@ -26,7 +26,7 @@ I'm an experienced Full Stack Web Developer with a passion for Arctic research a
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 </div>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DilanRamirez&theme=blue-green)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 
 
 ### The University of Texas at El Paso
