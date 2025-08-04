@@ -27,13 +27,15 @@ The University of Texas at El Paso
 As a Research Assistant, I was at the forefront of designing and implementing cutting-edge web applications for Arctic research. I developed 7 foundational npm packages to extend Esri's core GIS widgets, engineered high-performance geospatial databases supporting over 100 researchers, and automated data pipelines with Python, reducing deployment times by 99%.
 
 ## Let's Connect
-📧 Email: drramirezra@gmail.com
-💼 LinkedIn: linkedin.com/in/dilanramirez
-🌐 Website: dilanramirez.com
-Certifications
-AWS Certified Cloud Practitioner (In Progress)
-AWS Cloud Support Associate (In Progress)
-IBM Back-End Developer
-Going Places with Spatial Analysis (Esri)
-Let's collaborate, innovate, and make magic happen in the world of technology!
+- 📧 Email: drramirezra@gmail.com
+- 💼 LinkedIn: linkedin.com/in/dilanramirez
+- 🌐 Website: dilanramirez.com
+
+## Certifications
+- AWS Certified Cloud Practitioner (In Progress)
+- AWS Cloud Support Associate
+- IBM Back-End Developer
+- Going Places with Spatial Analysis (Esri)
+
+# Let's collaborate, innovate, and make magic happen in the world of technology!
 
