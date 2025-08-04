@@ -19,7 +19,7 @@ I'm a Full-Stack Software Engineer with 5+ years of experience designing, deploy
 <img src="https://img.shields.io/badge/GIS-5A0FC8?style=for-the-badge&logo=esri&logoColor=white" alt="GIS">
 </div>
 
-## Professional Experience Highlights
+## Professional Experience
 University of Southern California - ICT
 As a Programmer Analyst, I served as the Lead Front-End Developer for the U.S. Army's AIRCOEE project. I delivered a scalable UI/UX using React and TypeScript, integrated LLM analysis capabilities for AI-powered content revision, and drove high user adoption and satisfaction rates across multiple Army training centers.
 
